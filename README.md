@@ -1,5 +1,5 @@
-# Unity Basic Project 2
+# Unity Basic Project 3
 
-'Building a Graph'
+'Mathematical Surfaces'
 
-Followed from: https://catlikecoding.com/unity/tutorials/basics/building-a-graph/
+Followed from: https://catlikecoding.com/unity/tutorials/basics/mathematical-surfaces/
